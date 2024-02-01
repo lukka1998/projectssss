@@ -483,7 +483,7 @@ ul li i{
  .card1{
     width: 350px;
     height: 350px;
-    background-image: url(battlefield-2042-key-art.jpg.adapt.crop1x1.767w.jpg);
+    background-image: url( battlefield-2042-key-art.jpg.adapt.crop1x1.767w.jpg);
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -493,7 +493,7 @@ ul li i{
  .card2{
     width: 350px;
     height: 350px;
-    background-image: url(eas-fifa22-gen5-ue-keyart-horz-f23logo.jpg.adapt.crop1x1.767w.jpg);
+    background-image: url(1-1-gamebox-f122-keyart-1.png.adapt.crop1x1.767w.png);
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -503,7 +503,7 @@ ul li i{
  .card3{
     width: 350px;
     height: 350px;
-    background-image: url(1-1-gamebox-f122-keyart-1.png.adapt.crop1x1.767w.png);
+    background-image: url(eas-fifa22-gen5-ue-keyart-horz-f23logo.jpg.adapt.crop1x1.767w.jpg);
     background-size: cover;
     display: flex;
     justify-content: center;
